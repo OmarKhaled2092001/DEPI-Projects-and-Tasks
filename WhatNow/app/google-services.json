@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "473367734207",
+    "project_id": "what-now-5eb7c",
+    "storage_bucket": "what-now-5eb7c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473367734207:android:bc5ee27ca3a4d1a32de30a",
+        "android_client_info": {
+          "package_name": "com.example.whatnow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1QwDemT2FLgvAJJiGTsxYdPachbkH0CI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Emergency App</string>
+    <string name="police">Police</string>
+    <string name="fire">Fire Truck</string>
+    <string name="child">Child Rescue</string>
+    <string name="ambulance">Ambulance</string>
+    <string name="exit">Exit?</string>
+    <string name="message">Are you sure you want to exit?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
